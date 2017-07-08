@@ -11,11 +11,6 @@ body {
 	width: 960px;
 	height: 1024px;
 }
-
-#centered{
-	max-width: 960px;
-	margin: auto;
-}
     
 #header {
 	background: #abcdef;
@@ -30,10 +25,11 @@ body {
 }
 
 #menu {
-	background: #333333;
+	background: #ffffff;
 	float: left;
 	width: 200px;
 	height: 624px;
+	font-size: 15px;
 }
  
 #content {
@@ -43,7 +39,8 @@ body {
 }
 
 #footer {
-	background: #838283;
-	height: 180px;
+    font-size: 20px;
+	background: #ffffff;
+	height: 25px;
 	width: 960px;
 }
